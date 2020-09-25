@@ -14,7 +14,7 @@ function sceneOpening() {
 
   contx.ctx.fillStyle = "white";
   contx.ctx.font = "30px Arial";
-  contx.ctx.fillText("Flap Pig", (contx.canvW / 2) - 60, (contx.canvH / 2));
+  contx.ctx.fillText("Hungry Pig", (contx.canvW / 2) - 70, (contx.canvH / 2));
   contx.ctx.font = "17px Arial";
   contx.ctx.fillText("Tente pegar todas as maçãs", (contx.canvW / 2) - 100, (contx.canvH / 2) + 40);
   contx.ctx.font = "15px Arial";
